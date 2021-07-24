@@ -1,3 +1,25 @@
+### Hi there 👋, SaiChandu Behara
+DevOps Engineer
+
+Skills: DevOps / CICD / Jenkins / AWS / Kubernetes / GitHub
+
+Connect me on 
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bvnsaichandu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sai-chandu-behara-18478315a/)  
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ### Hi there, I'm Saichandu Behara 👋
 
 
