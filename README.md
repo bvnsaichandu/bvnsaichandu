@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Saichandu Behara 👋
+
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=bvnsaichandu&hide_border=true&show_icons=true">
+
+<br />
+
 
 <!--
 **bvnsaichandu/bvnsaichandu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
